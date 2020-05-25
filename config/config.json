@@ -1,0 +1,8 @@
+{
+    "development": {
+        "config_id": "development"
+    },
+    "production": {
+        "config_id": "production"
+    }
+}
